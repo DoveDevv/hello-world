@@ -1,11 +1,12 @@
 # hello-world
-Starter repo. Learning Git &amp; GitHub Flow.
+Starter repo. Learning Git & GitHub Flow.
 
-## What is this?
-Practice repository for basic Git commands and repository setup.
+## About
+This is my very first Python project — a simple `Hello, World!` script to mark the start of my coding journey.  
+Soft and Savage. Like me.
 
-## How to use:
-This repo contains a README only. (No runnable code—yet)
+## Usage
+(Optional...) Install pyfiglet for extra flair:
 
-## About:
-Maintained by DoveDevv — CS student interested in AI, robotics & cybersecurity.
+```bash
+pip install pyfiglet
